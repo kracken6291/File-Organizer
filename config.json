@@ -1,0 +1,10 @@
+{
+    "BulkPictures": {"extensions": [".jpg", ".jpeg", ".png", ".gif", ".heic"], "preserve": true},
+    "BulkDocuments": {"extensions": [".pdf", ".docx", ".doc", ".txt", ".csv", ".pptx", ".md"], "preserve": true},
+    "BulkVideos": {"extensions": [".mp4", ".mov", ".mkv"], "preserve": true},
+    "BulkArchives": {"extensions": [".zip", ".rar", ".tar.gz"], "preserve": true},
+    "BulkInstallers": {"extensions": [".exe", ".msi", ".dmg"], "preserve": false},
+    "BulkDirectories": {"extensions": ["Directory"], "preserve": false},
+    "BulkProgramming": {"extensions": [".py", ".json"], "preserve": false}, 
+    "BulkLogs": {"extensions": [".wpilog", ".log"], "preserve": false}
+}
